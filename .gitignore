@@ -42,9 +42,16 @@
 !/dist/CMakeLists.txt
 !/dist/makebuild.ps1
 
+slade
+slade.exe
+slade.pk3
 CMakeSettings.json
 CMakeFiles/
 Makefile
+CMakeCache.txt
+install_manifest.txt
+cmake_install.cmake
+cmake_uninstall.cmake
 src/CMakeFiles/
 src/Makefile
 src/external/CMakeFiles/
@@ -53,3 +60,18 @@ src/external/lunasvg/3rdparty/plutovg/CMakeFiles/
 src/external/lunasvg/3rdparty/plutovg/Makefile
 src/external/fmt/CMakeFiles/
 src/external/fmt/Makefile
+src/cotire/slade_CXX_prefix.cxx
+src/cotire/slade_CXX_prefix.hxx
+src/cotire/slade_CXX_prefix.hxx.gch
+src/external/cmake_install.cmake
+src/external/fmt/cmake_install.cmake
+src/external/fmt/libfmt.*
+src/external/libexternal.*
+src/external/liblunasvg.*
+src/external/lunasvg/3rdparty/plutovg/cmake_install.cmake
+src/external/lunasvg/3rdparty/software/cmake_install.cmake
+src/external/lunasvg/include/cmake_install.cmake
+src/external/lunasvg/source/cmake_install.cmake
+src/slade_CXX_Release_cotire.cmake
+src/slade_CXX_cotire.cmake
+
